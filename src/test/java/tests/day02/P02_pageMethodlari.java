@@ -30,10 +30,5 @@ public class P02_pageMethodlari {
         browser.close();
         playwright.close();
 
-
-
-
-
-
     }
 }
